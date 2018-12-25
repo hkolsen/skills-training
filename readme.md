@@ -2,8 +2,21 @@
 
 Keeping track of software courses I complete in 2019. 
 
-## Course List
+## Completed
 
 * [Build a GraphQL Server](./graphql-server) _Completed 2018-12-24_
     * [Link to Course on Egghead.io](https://egghead.io/courses/build-a-graphql-server) 
+
+## In Progress
+
+
+
+## // TODO
+
+* Practical Advanced TypeScript
+    * [Link to Course on Egghead.io](https://egghead.io/courses/practical-advanced-typescript)
+* Data Structures and Algorithms in JavaScript
+    * [Link to Course on Egghead.io](https://egghead.io/courses/data-structures-and-algorithms-in-javascript)    
+* Algorithms in JavaScript
+    * [Link to Course on Egghead.io](https://egghead.io/courses/algorithms-in-javascript)             
 
